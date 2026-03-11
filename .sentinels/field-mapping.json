@@ -1,0 +1,71 @@
+{
+  "71-5": {
+    "fields": {
+      "Evidence URL": {
+        "key": "customField15",
+        "type": "Link"
+      },
+      "Gate Current": {
+        "key": "customField26",
+        "type": "[]CustomOption"
+      },
+      "mitigation": {
+        "key": "customField13",
+        "type": "Formattable"
+      },
+      "Specialization": {
+        "key": "customField22",
+        "type": "[]CustomOption"
+      },
+      "Automation level": {
+        "key": "customField25",
+        "type": "CustomOption"
+      },
+      "Ledger Entry": {
+        "key": "customField17",
+        "type": "Link"
+      },
+      "Difficulty": {
+        "key": "customField20",
+        "type": "CustomOption"
+      },
+      "Evidence SHA256": {
+        "key": "customField16",
+        "type": "String"
+      },
+      "risk_summary": {
+        "key": "customField12",
+        "type": "Formattable"
+      },
+      "Contract ID": {
+        "key": "customField5",
+        "type": "String"
+      },
+      "Github": {
+        "key": "customField10",
+        "type": "Link"
+      },
+      "Support Agent": {
+        "key": "customField23",
+        "type": "CustomOption"
+      },
+      "target_branch": {
+        "key": "customField14",
+        "type": "String"
+      },
+      "Github Commit": {
+        "key": "customField11",
+        "type": "Link"
+      },
+      "Size": {
+        "key": "customField21",
+        "type": "CustomOption"
+      },
+      "Tech Stack": {
+        "key": "customField24",
+        "type": "String"
+      }
+    },
+    "ts": 1773195719
+  }
+}

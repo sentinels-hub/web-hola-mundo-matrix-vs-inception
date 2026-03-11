@@ -1,0 +1,107 @@
+{
+  "protocol_version": "1.0",
+  "contract_id": "CTR-web-hola-mundo-matrix-vs-inception-20260311",
+  "status": "active",
+  "work_package": {
+    "id": 2674,
+    "project": "web-hola-mundo-matrix-vs-inception"
+  },
+  "actor": {
+    "declared": {
+      "name": "JCajiao",
+      "role": "developer",
+      "openproject": {
+        "id": "3",
+        "email": "jc@sentinelshub.com"
+      },
+      "github": {
+        "login": "JCajiao",
+        "email": "jorgecajiao@gmail.com"
+      }
+    }
+  },
+  "participants": [
+    {
+      "name": "JCajiao",
+      "role": "developer",
+      "github": {
+        "login": "JCajiao"
+      },
+      "openproject": {
+        "id": "3"
+      }
+    }
+  ],
+  "scope": {
+    "repositories": [
+      "web-hola-mundo-matrix-vs-inception"
+    ],
+    "in_scope": [
+      "Web Hola Mundo landing page — Matrix vs Inception theme"
+    ],
+    "out_of_scope": [
+      "Out-of-scope work must be declared before execution"
+    ]
+  },
+  "plan": {
+    "summary": "Web Hola Mundo landing page — Matrix vs Inception theme",
+    "acceptance_criteria": [
+      "Contract stays synchronized with OpenProject and GitHub"
+    ],
+    "definition_of_done": [
+      "Evidence URL linked and closure gate completed"
+    ]
+  },
+  "gates": {
+    "G0": {
+      "status": "passed",
+      "checked_at": "2026-03-11T02:21:57+00:00",
+      "note": "Contract initialized before implementation"
+    },
+    "G1": {
+      "status": "passed",
+      "checked_at": "2026-03-11T02:22:02Z",
+      "note": "Identity verified at start: git user and OP user match contract actor"
+    },
+    "G2": {
+      "status": "passed",
+      "checked_at": "2026-03-11T02:36:03Z",
+      "note": "Plan approved — WP hierarchy created in OP with 26 WPs (1 Epic, 5 Features, 10 User Stories, 10 Tasks). Total estimate: 11.5h."
+    },
+    "G3": {
+      "status": "passed",
+      "checked_at": "2026-03-11T02:45:05Z",
+      "note": "Implementation complete — 3 files, 581 lines, 10 tasks Developed"
+    },
+    "G4": {
+      "status": "passed",
+      "checked_at": "2026-03-11T02:48:22Z",
+      "note": "Security cleared — SAST clean, zero secrets, zero CVEs, zero external deps"
+    },
+    "G5": {
+      "status": "pending"
+    },
+    "G6": {
+      "status": "pending"
+    },
+    "G7": {
+      "status": "pending"
+    }
+  },
+  "traceability": {
+    "openproject": {
+      "contract_id_field": "CTR-web-hola-mundo-matrix-vs-inception-20260311",
+      "work_package_url": "https://sentinels.openproject.com/work_packages/2674"
+    },
+    "github": {
+      "branch": "feat/wp-2674-jarvis-flow",
+      "commits": [],
+      "repository": "web-hola-mundo-matrix-vs-inception"
+    }
+  },
+  "agent_versions": {},
+  "timestamps": {
+    "created_at": "2026-03-11T02:21:57+00:00",
+    "updated_at": "2026-03-11T02:48:22Z"
+  }
+}
