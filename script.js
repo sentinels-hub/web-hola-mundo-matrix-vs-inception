@@ -25,7 +25,7 @@
   toggle.addEventListener('click', switchTheme);
 
   toggle.addEventListener('keydown', function (e) {
-    if (e.key === 'Enter' || e.key === ' ') {
+    if (e.key === ' ') {
       e.preventDefault();
       switchTheme();
     }
